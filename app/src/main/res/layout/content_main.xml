@@ -41,4 +41,12 @@
         android:text="Select"
         android:id="@+id/btnSelect"/>
 
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:numColumns="2"
+        android:layout_height="wrap_content">
+
+    </GridView>
+
 </LinearLayout>
